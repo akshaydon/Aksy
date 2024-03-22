@@ -1647,7 +1647,7 @@ logo ="""
   << [<><><><><><><><><><><><><><>><><><>]<<                                                          
 \033[1;37;1m-----------------------------------------------
  AUTHOR     : >>[Aksahay×××K3SH9V]<<
- GITHUB     : [JoshiHeroo]××× K3SH9V]¢
+ GITHUB       :>>[akshaydon]××<<
  FACEBOOK   : >>[Kawaskhatun]<<
  TOOLS     \033[1;97m : \x1b[97m\033[37;41m PAID\033[0;m
  VERSION    : \033[1;36m1.1 \033[1;37m
